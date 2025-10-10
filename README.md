@@ -1,5 +1,5 @@
 ### EXP -11 SYNCHRONOUS-UP-COUNTER
-### Developed by:Kanishka.V RegisterNumber: 24003362
+### Developed by:tamil selvan . s RegisterNumber: 25018815
 
 ### **AIM:**
 
