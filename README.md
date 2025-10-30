@@ -1,5 +1,5 @@
 ### EXP -11 SYNCHRONOUS-UP-COUNTER
-### Developed by:tamil selvan . s RegisterNumber: 25018815
+### Developed by: . s RegisterNumber: 25018843
 
 ### **AIM:**
 
